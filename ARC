@@ -1,0 +1,5 @@
+New Changes
+- Perbaikan Job Micin
+- Penyempurnaan System Private Storage
+- Menambahkan Fitur Jika player click map pada satu mobil akan tertandai di satu mobil tersebut
+- Memperbaiki System Voucher
