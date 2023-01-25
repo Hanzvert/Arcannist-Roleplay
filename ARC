@@ -6,3 +6,5 @@ ARC v0.2.2
 - Fix Track Dealership di GPS
 - New System Speed Limit Kendaraan cmds /limitspeed [1 - 70]
 - Tester Fix Business
+
+New Bot Features
